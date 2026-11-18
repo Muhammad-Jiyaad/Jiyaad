@@ -1,0 +1,16 @@
+services:
+  web:
+    image: ghcr.io/hengkerrusia/auth1:latest
+    ports:
+      - "1337:3000"
+    environment:
+      - PWN=${PWN:-testuser}
+    deploy:
+      resources:
+        limits:
+          cpus: "0.50"
+          memory: 256M
+        reservations:
+          cpus: "0.25"
+          memory: 128M
+    restart: unless-stopped
