@@ -17,7 +17,7 @@ Here what i solved:
 - Forensics:
   - not yet
 - Cryptography:
-  - not yet
+  - Mod 26
 - Reverse Engineering:
   - not yet
 - Web Exploitation:
