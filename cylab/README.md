@@ -18,6 +18,7 @@ Here what i solved:
   - not yet
 - Cryptography:
   - Mod 26
+  - The Numbers
 - Reverse Engineering:
   - not yet
 - Web Exploitation:
