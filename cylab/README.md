@@ -8,7 +8,7 @@ cylab
 
 Here what i solved:
 - Artificial Intelligence:
--- not yet
+ -- not yet
 - Binary Exploitation :
 -- not yet
 - Blockchain:
