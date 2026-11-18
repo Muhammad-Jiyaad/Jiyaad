@@ -23,4 +23,5 @@ Here what i solved:
 - Web Exploitation:
   - Insp3ct0r
   - where are the robots
-  - Inspect HTML 
+  - Inspect HTML
+  - GET aHEAD
