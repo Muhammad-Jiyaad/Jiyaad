@@ -1,23 +1,24 @@
 # Folder Explanation
 It folder for documenting my CTF writeup from Cylab Security Academy. So the structure would look like this:
-'''bash
+```structure
 cylab
- |-catagory
-   |-difficulty
-'''
+ |-category
+   |-difficulty 
+```
+
 
 Here what i solved:
 - Artificial Intelligence:
- -- not yet
-- Binary Exploitation :
--- not yet
+  - not yet
+- Binary Exploitation:
+  - not yet
 - Blockchain:
--- not yet
+  - not yet
 - Forensics:
--- not yet
-- Kriptography:
--- not yet
+  - not yet
+- Cryptography:
+  - not yet
 - Reverse Engineering:
--- not yet
+  - not yet
 - Web Exploitation:
--- Insp3ct0r
+  - Insp3ct0r
